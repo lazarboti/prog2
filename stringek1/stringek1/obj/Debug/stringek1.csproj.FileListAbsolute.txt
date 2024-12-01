@@ -1,0 +1,7 @@
+C:\Users\lazar\source\repos\stringek1\stringek1\bin\Debug\stringek1.exe.config
+C:\Users\lazar\source\repos\stringek1\stringek1\bin\Debug\stringek1.exe
+C:\Users\lazar\source\repos\stringek1\stringek1\bin\Debug\stringek1.pdb
+C:\Users\lazar\source\repos\stringek1\stringek1\obj\Debug\stringek1.csproj.AssemblyReference.cache
+C:\Users\lazar\source\repos\stringek1\stringek1\obj\Debug\stringek1.csproj.CoreCompileInputs.cache
+C:\Users\lazar\source\repos\stringek1\stringek1\obj\Debug\stringek1.exe
+C:\Users\lazar\source\repos\stringek1\stringek1\obj\Debug\stringek1.pdb

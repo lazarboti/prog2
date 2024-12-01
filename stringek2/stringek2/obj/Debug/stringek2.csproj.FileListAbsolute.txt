@@ -1,0 +1,7 @@
+D:\09\stringek2\stringek2\obj\Debug\stringek2.csproj.AssemblyReference.cache
+D:\09\stringek2\stringek2\obj\Debug\stringek2.csproj.CoreCompileInputs.cache
+D:\09\stringek2\stringek2\bin\Debug\stringek2.exe.config
+D:\09\stringek2\stringek2\bin\Debug\stringek2.exe
+D:\09\stringek2\stringek2\bin\Debug\stringek2.pdb
+D:\09\stringek2\stringek2\obj\Debug\stringek2.exe
+D:\09\stringek2\stringek2\obj\Debug\stringek2.pdb
