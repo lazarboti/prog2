@@ -1,0 +1,7 @@
+D:\09\ezernelkisebb\ezernelkisebb\bin\Debug\ezernelkisebb.exe.config
+D:\09\ezernelkisebb\ezernelkisebb\bin\Debug\ezernelkisebb.exe
+D:\09\ezernelkisebb\ezernelkisebb\bin\Debug\ezernelkisebb.pdb
+D:\09\ezernelkisebb\ezernelkisebb\obj\Debug\ezernelkisebb.csproj.AssemblyReference.cache
+D:\09\ezernelkisebb\ezernelkisebb\obj\Debug\ezernelkisebb.csproj.CoreCompileInputs.cache
+D:\09\ezernelkisebb\ezernelkisebb\obj\Debug\ezernelkisebb.exe
+D:\09\ezernelkisebb\ezernelkisebb\obj\Debug\ezernelkisebb.pdb
